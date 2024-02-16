@@ -5,6 +5,6 @@ DCRP: Class-Aware Feature Diffusion Constraint and Reliable Pseudo-labeling for 
 
 # For CIFAR10-LT
 
-`python
-# test
-`
+```bash
+sh runCIFAR10_dcrp.sh
+```
