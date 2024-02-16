@@ -1,7 +1,8 @@
 # DCRP
-Official Repository of DCRP
+Official Repository for "DCRP: Class-Aware Feature Diffusion Constraint and Reliable Pseudo-labeling for Imbalanced Semi-Supervised Learning" accepted by IEEE Transactions on Multimedia
 
-DCRP: Class-Aware Feature Diffusion Constraint and Reliable Pseudo-labeling for Imbalanced Semi-Supervised Learning
+## Abstract
+In this study, we addressed two key challenges in ISSL: maintaining the reliability of pseudo-labels and ensuring a balanced representation of features. Specifically, we propose a class-aware feature-diffusion constraint and reliable pseudo-labeling (DCRP) framework to address these issues. In the DCRP, we counteract the overconfidence problem of softmax by adding an extra class to the typical K class problem without the need for additional parameters. Moreover, we introduced a flexible class-aware feature diffusion constraint in the feature extractor, promoting a more balanced feature diversity.
 
 ## For CIFAR10-LT
 
